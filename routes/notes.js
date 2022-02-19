@@ -22,8 +22,8 @@ notes.post("/", (req, res) => {
       note_id: uuid(),
     };
 
-    readAndAppend(newTip, "./db/notes.json");
-    res.json(`Tip added successfully 🚀`);
+    readAndAppend(newNote, "./db/notes.json");
+    res.json(`Notes added successfully 🚀`);
   } else {
     res.error("Error in adding tip");
   }
