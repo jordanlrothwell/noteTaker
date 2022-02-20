@@ -2,21 +2,16 @@
     {
         "title": "Test",
         "text": "asdfasdfasdfasdf",
-        "note_id": "f494"
-    },
-    {
-        "title": "asdfasdfasdf",
-        "text": "asdfasdfasdfasdf",
-        "note_id": "c80d"
+        "id": "f494"
     },
     {
         "title": "My Note",
         "text": "Note content",
-        "note_id": "cec5"
+        "id": "cec5"
     },
     {
-        "title": "asdfasdf",
-        "text": "asdfasdfasdf",
-        "id": "b916"
+        "title": "111111111111",
+        "text": "1111111111111111111",
+        "id": "6681"
     }
 ]
